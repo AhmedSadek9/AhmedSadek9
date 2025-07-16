@@ -7,9 +7,9 @@ I thrive on tackling challenges that require deep thinking and creative approach
 As a lifelong learner, I am committed to continuously expanding my knowledge and staying up to date with the latest advancements in the rapidly evolving field of Artificial Intelligence. I believe in the transformative potential of AI and strive to be at the forefront of its development.
 
 💻 Technical Skills
-Programming Languages: Java, Python, C++, SQL
+Programming Languages: Java, Python, C++, SQL , R
 
-Domains: Artificial Intelligence, Data Science, Neural Networks
+Domains: Artificial Intelligence, Data Science, Neural Networks , Machine Learning
 
 Tools & Technologies: Network simulation, GUI development, data analytics, model evaluation, and optimization
 
