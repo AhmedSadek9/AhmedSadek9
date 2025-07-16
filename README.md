@@ -18,4 +18,4 @@ Project Experience: From developing user-friendly GUI-based applications to buil
 🚀 What I’m Working On
 I’m currently focused on projects that integrate AI models with real-world applications, aiming to create solutions that are both smart and practical.
 
-Feel free to explore my repositories to see some of the projects I’ve built!
+
